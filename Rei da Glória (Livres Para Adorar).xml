@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-29T13:49:04">
+  <properties>
+    <titles>
+      <title>Rei da Glória</title>
+    </titles>
+    <authors>
+      <author>Livres Para Adorar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As estrelas incontáveis Tu conheces todas pelo nome<br/>Todo o universo desenhado foi em Tua majestade</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Tua Glória brilha aqui<br/>E quanto mais Te vejo, eu Te amo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rei da Glória, maravilhoso és<br/>Não há outro além de Ti</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rei da Glória, dono do meu coração<br/>E quanto mais Te vejo, eu amo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eu respondo ao teu amor<br/>Que diz a mim que não há outro Deus </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Misericórdia e bondade me acolhem em Tua santidade</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A Tua Glória brilha aqui<br/>E quanto mais Te vejo, eu Te amo</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Rei da Glória, maravilhoso és<br/>Não há outro além de Ti</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Rei da Glória,dono do meu coração<br/>E quanto mais Te vejo, eu amo</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Quanto mais eu Te conheço eu Te amo<br/>Quanto mais eu Te percebo eu Te quero</lines>
+    </verse>
+  </lyrics>
+</song>

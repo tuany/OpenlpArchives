@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-10-25T12:45:52">
+  <properties>
+    <titles>
+      <title>Só em Ti confiarei</title>
+    </titles>
+    <authors>
+      <author>Ministério Avivah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu és a minha luz,<br/>a minha salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E a ti me renderei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se ao teu lado estou<br/>Seguro em tuas mãos<br/>eu nada temerei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, Oh<br/>Tu és Santo, oh Senhor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, Oh.<br/>Tu és digno de louvor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Só em Ti confiarei.<br/>Eu nada temerei.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Em frente eu irei,<br/>pois eu sei que vivo estás.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>E um dia voltarás do céu para nos buscar.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Para sempre reinará.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Aleluia...</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Vem Jesus,<br/>Maranata ora vem Senhor Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

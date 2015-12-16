@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-01T20:12:52">
+  <properties>
+    <titles>
+      <title>cúltura do Céu</title>
+    </titles>
+    <authors>
+      <author>Davi Fernandes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aqui na terra como no Céu, toma o Teu Lugar<br/>Na terra como no Céu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Venha o Teu Reino <br/>Venha o Teu governo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Flua a Cúltura<br/>que vem dos Céus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te convidamos,<br/>Te desejamos,<br/>Rei da Glória toma o Teu lugar</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Toma o Teu lugar Ô Ô Ô</lines>
+    </verse>
+  </lyrics>
+</song>

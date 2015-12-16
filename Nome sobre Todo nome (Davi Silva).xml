@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-13T16:09:50">
+  <properties>
+    <titles>
+      <title>Nome sobre Todo nome</title>
+    </titles>
+    <authors>
+      <author>Davi Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abriu mão Da sua glória,<br/>E semelhante A um homem<br/>Se esvaziou, Servo tornou</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E a si mesmo Se humilhou<br/>E como um filho obedeceu<br/>Até a morte<br/>E morte de cruz</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mas o grande Deus, O nosso Pai, o Exaltou</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E lhe deu o nome<br/>Que é sobre todo nome<br/>No céus e na terra<br/>E debaixo da terra</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Ao nome de jesus, Todo joelho<br/>Se dobrará</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>E toda língua confessará<br/>Que ele é o Senhor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Je-su- s<br/>Nome sobre Todo nome<br/>Nome sobre Todo nome</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Seu nome é<br/>Maravilhoso, Conselheiro<br/>Deus forte,<br/>Pai da eternidade,<br/>E príncipe da paz</lines>
+    </verse>
+  </lyrics>
+</song>

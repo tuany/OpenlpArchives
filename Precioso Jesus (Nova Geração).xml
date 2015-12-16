@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-15T14:22:31">
+  <properties>
+    <titles>
+      <title>Precioso Jesus</title>
+    </titles>
+    <authors>
+      <author>Nova Geração</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Precioso Jesus<br/>Posso ouvir os teus passos<br/>Caminhando aqui<br/>Vindo em minha direção<br/>Só pra ficar comigo agora</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Então me rendo<br/>Me desfaleço</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Me derramo aos teus pés<br/>Só por causa do teu amor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tu és meu preferido<br/>E único digno<br/>Do meu afeto<br/>E canção</lines>
+    </verse>
+  </lyrics>
+</song>

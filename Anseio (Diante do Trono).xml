@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-06T14:26:28">
+  <properties>
+    <titles>
+      <title>Anseio</title>
+    </titles>
+    <authors>
+      <author>Diante do Trono</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leva-me bem mais perto<br/>Em Tua presença, em Tua gloria</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chama-me mais profundo<br/>Além do véu, em Tua glória</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Espírito desça agora<br/>Eu me aproximo de Tua glória</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cobre-me com Tua graça<br/>Sou filho que ama Tua glória</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Anseio por mais de Ti<br/>Com meu respirar, com meu caminhar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eu queimo de amor por Ti<br/>Com desejo santo, queima o fogo santo</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tua glória venha o céu na terra, céu na terra</lines>
+    </verse>
+  </lyrics>
+</song>
