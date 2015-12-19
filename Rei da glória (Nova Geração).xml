@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-19T13:25:32">
+  <properties>
+    <titles>
+      <title>Rei da glória</title>
+    </titles>
+    <authors>
+      <author>Nova Geração</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tua face brilha <br/>como o sol</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu és tão glorioso<br/>Tu és tão glorioso</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O fogo dos Teus olhos <br/>me incendeia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu és tão glorioso<br/>Tu és tão glorioso</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rei da glória<br/>Vem sua glória</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tua voz é como o som <br/>de muitas águas</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tu és tão poderoso<br/>Tu és tão poderoso</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sustenta o universo <br/>com Tuas mãos</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Tu és tão poderoso<br/>Tu és tão poderoso</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ôôô ô...</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Rasgue os céus<br/>Rasgue os céus</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Rasgue os céus<br/>E vem, vem, vem!</lines>
+    </verse>
+  </lyrics>
+</song>
