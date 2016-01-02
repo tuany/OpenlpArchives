@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-01T12:45:24">
+  <properties>
+    <titles>
+      <title>Te dar a Honra</title>
+    </titles>
+    <authors>
+      <author>Comunidade das nações</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú és Santo, poderoso Deus <br/>levantamos nossas mãos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te entregamos o Louvor <br/>nossos corações, consagramos a Ti</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem e toma o Teu lugar <br/>Vem e reina sobre nós </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Queremos te dar a Honra que é Devida </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Te dar a Glória que é devida<br/>Te dar a Honra que é devida</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Meu prazer é te adorar <br/>Tu És meu tudo, És mais que tudo.</lines>
+    </verse>
+  </lyrics>
+</song>

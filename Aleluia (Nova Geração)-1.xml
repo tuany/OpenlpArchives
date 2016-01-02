@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-19T12:59:09">
+  <properties>
+    <titles>
+      <title>Aleluia</title>
+    </titles>
+    <authors>
+      <author>Nova Geração</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aleluia, aleluia<br/>Tu és digno de todo louvor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Ti nós exaltamos<br/>A Ti nós exaltamos<br/>A Ti nós exaltamos</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Ti glorificamos<br/>Teu nome exaltamos<br/>Glorificado és</lines>
+    </verse>
+  </lyrics>
+</song>

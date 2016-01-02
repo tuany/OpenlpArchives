@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-29T14:39:35">
+  <properties>
+    <titles>
+      <title>Maranata</title>
+    </titles>
+    <authors>
+      <author>M.Avivah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu és a minha luz<br/>A minha salvação</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E a Ti me renderei<br/>Se ao teu lado estou<br/>Seguro em Tuas mãos<br/>Eu nada temerei</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ôô ôô ôô<br/>Tu és Santo ó Senhor<br/>Ôô ôô ôô<br/>Tu és digno de louvor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Só em Ti confiarei!<br/>Eu nada temerei!<br/>Em frente eu irei!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pois eu sei que vivo estás!<br/>E um dia voltarás do céu pra nos buscar<br/>Para sempre Reinarás, aleluia!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vem Jesus!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Maranata ora vem Senhor Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

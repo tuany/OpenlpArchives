@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-27T13:11:28">
+  <properties>
+    <titles>
+      <title>Eu quero é Deus</title>
+    </titles>
+    <authors>
+      <author>Comunidade de Nilópolis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu, eu, eu<br/>Eu quero é Deus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não importa o que vão pensar de mim<br/>Eu quero é Deus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niguém morreria assim em meu lugar<br/>Foi uma morte terrível pra me salvar</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por isso eu declaro<br/>Eu amo esse Deus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ele é o pão vivo<br/>Que desceu do céu</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ele é o cordeiro de Deus<br/>É o príncipe da paz</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ele é a raiz de Davi<br/>Ele é o leão de Judá</lines>
+    </verse>
+  </lyrics>
+</song>

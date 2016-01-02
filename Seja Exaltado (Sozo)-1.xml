@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-13T15:49:55">
+  <properties>
+    <titles>
+      <title>Seja Exaltado</title>
+    </titles>
+    <authors>
+      <author>Sozo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu louvo ao Teu nome<br/>Louvo o Teu nome    <br/>O nome que está sobre todo nome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toda honra ao Teu nome<br/>Honras ao Teu nome<br/>O nome que é maior que todo nome</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Seja exaltado, seja exaltado<br/>Seja exaltado, exaltado</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Teu nome é vida Teu nome é a esperança em mim, a esperança em mim</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teu nome é amor,<br/>O amor que sempre me encontra, sempre me encontra</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aleluia</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ao Rei</lines>
+    </verse>
+  </lyrics>
+</song>

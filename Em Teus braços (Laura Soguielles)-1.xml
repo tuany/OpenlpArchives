@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-10-25T12:16:18">
+  <properties>
+    <titles>
+      <title>Em Teus braços</title>
+    </titles>
+    <authors>
+      <author>Laura Soguielles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Seguro estou nos braços,<br/>daquele que nunca me deixou.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Seu amor perfeito,<br/>sempre esteve repousado em mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E se eu passar pelo vale,<br/>acharei conforto em Teu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pois, eu sei que és aquele que me guarda.<br/>Me guarda...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Em Teus braços é o meu descanso.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Recaio em Tua graça.<br/>Recaio de novo em Tuas mãos.</lines>
+    </verse>
+  </lyrics>
+</song>

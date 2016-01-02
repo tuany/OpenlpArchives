@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-10-25T12:20:34">
+  <properties>
+    <titles>
+      <title>Teu amor não falha</title>
+    </titles>
+    <authors>
+      <author>Nivea Soares</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nada vai nos separar.<br/>Mesmo se eu me abalar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teu amor não falha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mesmo sem merecer, tua graça se derrama sobre mim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teu amor não falha.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tu és o mesmo, para sempre.<br/>Teu amor não muda.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Se o choro dura uma noite, a alegria vem no amanhecer.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Se o mar se enfurecer, eu não tenho o que temer. Por que eu sei que me amas.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Teu amor não falha.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Se o vento é forte, profundo é o mar.<br/>Díficil é o caminhar, nunca pensei que eu fosse</lines>
+    </verse>
+  </lyrics>
+</song>

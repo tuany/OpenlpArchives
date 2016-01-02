@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-08T16:01:09">
+  <properties>
+    <titles>
+      <title>Rei da Glória</title>
+    </titles>
+    <authors>
+      <author>Gezi Monteiro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rei da Glória, buscamos o Teu Reino</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rei da Glória, buscamos Tua vontade </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rei da Glória, nos rendemos <br/>a Ti a Ti</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Toma o Teu lugar, em meu coração, <br/>me rendo a Ti</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Toma o meu coração,<br/> Minha adoração me rendo a Ti</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Rei da Glória, buscamos o Teu Reino</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Rei da Glória, buscamos Tua vontade </lines>
+    </verse>
+    <verse name="v8">
+      <lines>Rei da Glória,  rendemos a Ti a Ti</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ô Ô Ô Ô</lines>
+    </verse>
+    <verse name="v10">
+      <lines>O que há em Ti, Jesus<br/>Vem reinar em mim</lines>
+    </verse>
+    <verse name="v11">
+      <lines>O que há no Céu <br/>Vem reinar em nós</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-15T14:09:54">
+  <properties>
+    <titles>
+      <title>Aba</title>
+    </titles>
+    <authors>
+      <author>Laura Souguellis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>És mais real que o chão que eu piso<br/>És mais real que o ar em meus pulmões</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teus pensamentos me definem<br/>És tudo para mim, És a minha realidade<br/>És a minha realidade</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aba, eu pertenço a Ti</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Estás mais perto do que a pele em meus ossos<br/>Estás mais perto que a canção em meus lábios</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pra Ti Adorar que eu vivo <br/>Eu vivo pra Ti adorar</lines>
+    </verse>
+  </lyrics>
+</song>

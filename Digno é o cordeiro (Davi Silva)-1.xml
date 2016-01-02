@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-01T19:44:03">
+  <properties>
+    <titles>
+      <title>Digno é o cordeiro</title>
+    </titles>
+    <authors>
+      <author>Davi Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Digno é o Cordeiro de receber <br/>A Glória, força, honra,<br/>todo poder</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Anjos e querubíns estão no Teu trono </lines>
+    </verse>
+    <verse name="v2b">
+      <lines>E uma nuvem de Glória</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu És Santo, Tu És Santo, Tu És Santo !</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aquele que venceu a morte <br/>Santo,Santo, Santo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aquele que ressucitou <br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aquele que é o Senhor<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Leão da tribo de Judá<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Raiz de Davi<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Estrela da manhã<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v10">
+      <lines>O cavaleiro do cavalo branco<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Seus olhos como chamas de fogo<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Na sua boca uma espada afiada<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Que está vestido<br/>com manto de sangue<br/>Santo, Santo, Santo</lines>
+    </verse>
+    <verse name="v14">
+      <lines>E sua coxa está escrito</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Rei dos Reis, Senhor dos Senhores</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Tu És Santo <br/>Santo, Santo, Santo</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-02T21:28:40">
+  <properties>
+    <titles>
+      <title>Poderoso, Deus eterno</title>
+    </titles>
+    <authors>
+      <author>Davi Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anjos proclamam a tua majestade</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prostrado aos teus pés adorando ao rei</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Terra e céu cantarão uma canção que subirá</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Declarando Santo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sua glória descerá <br/>Sobre a terra se espalhará</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Em uma só voz cantando <br/>Te entronizando</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Santo <br/>Poderoso Deus eterno</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Que é, que há de vir <br/>Em glória</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Aleluia</lines>
+    </verse>
+  </lyrics>
+</song>
