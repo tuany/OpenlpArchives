@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-17T18:08:06">
+  <properties>
+    <titles>
+      <title>Estás Aqui</title>
+    </titles>
+    <authors>
+      <author>Radicais Livres</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ainda que meus olhos não te vejam</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Posso Te sentir<br/>Sei que estás aqui</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>As minhas mãos não poderão tocar</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Teu rosto, Senhor<br/>Sei que estás aqui</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Meu coração pode sentir Tua presença<br/>Estás aqui, estás aqui</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Posso sentir Tua grandeza<br/>Estás aqui, estás aqui</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Meu coração pode olhar Tua beleza<br/>Estás aqui, estás aqui</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Posso sentir Teu grande amor<br/>Estás aqui, estás aqui</lines>
+    </verse>
+  </lyrics>
+</song>

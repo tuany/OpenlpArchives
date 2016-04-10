@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-02-14T19:53:53">
+  <properties>
+    <titles>
+      <title>Jesus Te Amo</title>
+      <title>Jesus Te Amo</title>
+    </titles>
+    <authors>
+      <author>FRED ARRAIS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus te amo mais que tudo<br/>Jesus te amo mais que tudo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>nada mais me satisfaz<br/>nada mais me satisfaz</lines>
+    </verse>
+    <verse name="v3">
+      <lines>só você só você só você</lines>
+    </verse>
+  </lyrics>
+</song>

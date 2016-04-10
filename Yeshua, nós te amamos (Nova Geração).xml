@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-04-10T15:44:34">
+  <properties>
+    <titles>
+      <title>Yeshua, nós te amamos</title>
+    </titles>
+    <authors>
+      <author>Nova Geração</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Louve ao único<br/>Que a morte venceu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ele é Deus<br/>Ele é bom<br/>Ele é  Cristo</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yeshua,  <br/>Te amamos</lines>
+    </verse>
+  </lyrics>
+</song>

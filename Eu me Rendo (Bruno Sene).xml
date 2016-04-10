@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-17T18:00:36">
+  <properties>
+    <titles>
+      <title>Eu me Rendo</title>
+    </titles>
+    <authors>
+      <author>Bruno Sene</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Eis me aqui, <br/>Prostrado outra vez</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pra tudo entregar<br/>Pra tudo entregar</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Leva-me perto de Ti, Senhor</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Anseio por Ti, anseio por Ti<br/>Eu me rendo</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Enche-me da graça e do teu amor<br/>Sacia meu ser, sacia meu ser</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Abraça-me, ouve o meu clamor<br/>Fala pra mim, fala pra mim</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Eu me rendo, eu me rendo</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Pra conhecer-te mais, pra conhecer-te mais</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>Vento de poder, sopra em meu viver</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>Faz teu querer, faz teu querer em mim</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>Como um vendaval sobrenatural</lines>
+    </verse>
+  </lyrics>
+</song>

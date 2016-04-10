@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-29T21:53:25">
+  <properties>
+    <titles>
+      <title>Jesus meu primeiro Amor</title>
+    </titles>
+    <authors>
+      <author>Fernanda Brum</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abre meus ouvidos eu quero ouvir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abre meus olhos eu quero ver</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abre meu coração quero sentir Teu grande Amor , teu grande amor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu quero me apaixonar outra vez<br/>Eu quero me desesperar outra vez <br/>Eu quero perder o sono outra vez</lines>
+    </verse>
+    <verse name="v5">
+      <lines>queimando de Amor por Ti</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eu tenho sede <br/>Eu tenho fome, fome de Ti</lines>
+    </verse>
+    <verse name="v7">
+      <lines>cobre-me com Teu amor com Teu calor<br/>Revela-te a mim </lines>
+    </verse>
+  </lyrics>
+</song>

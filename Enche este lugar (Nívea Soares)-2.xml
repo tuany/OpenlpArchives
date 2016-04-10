@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-08T16:06:28">
+  <properties>
+    <titles>
+      <title>Enche este lugar</title>
+    </titles>
+    <authors>
+      <author>Nívea Soares</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Tu que estás assentado<br/>Sobre os querubins</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu que estás entronizado<br/>Em meio aos serafins</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu que estás aclamado por anjos<br/>Vem neste lugar</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Tu que estás assentado<br/>Sobre um trono de glória</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Tu que estás entronizado<br/>Sobre os louvores do Teu povo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tu que estás aclamado por Tua igreja<br/>Vem neste lugar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vem neste lugar<br/>Enche este lugar</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Enche este lugar<br/>Enche a minha vida<br/>Senhor Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

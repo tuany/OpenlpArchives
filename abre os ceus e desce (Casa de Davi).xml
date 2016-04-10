@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-31T19:51:56">
+  <properties>
+    <titles>
+      <title>abre os ceus e desce</title>
+      <title>abre os ceus e desce</title>
+    </titles>
+    <authors>
+      <author>Casa de Davi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abre os céus e desce</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abre os céus e desce<br/>Senhor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faz cair tua chuva</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Faz cair tua chuva <br/>Senhor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Venha a nós teu reino</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Venha a nós teu reino<br/>Senhor</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-08T15:12:59">
+  <properties>
+    <titles>
+      <title>Glória e Honra</title>
+    </titles>
+    <authors>
+      <author>Nívea Soares</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu verás o fruto do Teu penoso trabalho<br/>E Te alegrarás, e Te alegrarás</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Povos de todas as tribos, línguas e nações<br/>E Te alegrarás, e Te alegrarás</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que o meu viver revele quem Tu és<br/>Tão puro e Santo Deus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Toma o Teu Lugar<br/>Que o Teu coração se alegre sobre mim</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Glória e Honra a Ti<br/>Cordeiro Santo, Cordeiro Santo</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Todo o domínio a Ti<br/>Deus Poderoso, Deus Poderoso<br/><br/><br/><br/>Tu verás o fruto do Teu penoso trabalho<br/>Te alegrarás, alegra-te sobre mim</lines>
+    </verse>
+    <verse name="e1">
+      <lines><br/>Tu verás o fruto do Teu penoso trabalho<br/>E Te alegrarás, alegra-te sobre mim, Senhor</lines>
+    </verse>
+    <verse name="e2">
+      <lines><br/>Alegra-te sobre mim, Senhor<br/>Alegra-te sobre mim, Senhor</lines>
+    </verse>
+  </lyrics>
+</song>

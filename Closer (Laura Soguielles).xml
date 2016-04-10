@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-30T20:43:59">
+  <properties>
+    <titles>
+      <title>Closer</title>
+    </titles>
+    <authors>
+      <author>Laura Soguielles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Senhor o teu amor me arrebatou<br/>Me arrebatou </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meu desejo é estar contigo pra sempre<br/>Contigo pra sempre </lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Traga-me mais perto<br/>Leva-me mais profundo</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Eu quero conhecer teu coração</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Teu amor é bem mais doce<br/>Do que tudo que já provei</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Eu quero conhecer teu coração</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ÔôÔ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Grande é teu amor por mim</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Grande é teu amor</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-28T21:49:21">
+  <properties>
+    <titles>
+      <title>O Senhor é bom</title>
+      <title>O Senhor é bom</title>
+    </titles>
+    <authors>
+      <author>Nivea Soares</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendirei ao Senhor pra sempre</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Proclamarei que o Senhor é bom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Senhor reina, reinará com majestade</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Senhor reina, em justiça e em verdade</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Senhor é bom (2x) <br/>Sua misericórdia dura pra sempre</lines>
+    </verse>
+  </lyrics>
+</song>

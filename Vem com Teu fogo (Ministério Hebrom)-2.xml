@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-06T14:42:00">
+  <properties>
+    <titles>
+      <title>Vem com Teu fogo</title>
+    </titles>
+    <authors>
+      <author>Ministério Hebrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu coração quer Tua presença<br/>Meu coração quer Te adorar</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sê propício a nós e vem neste lugar</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Vem com Teu fogo<br/>Vem com Tua glória<br/>Neste lugar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Traz renovo, vasos novos<br/>Pra Te adorar</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-24T12:13:19">
+  <properties>
+    <titles>
+      <title>Tu Reinas</title>
+    </titles>
+    <authors>
+      <author>Diante do Trono</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu reinas soberano<br/>Teu trono é eterno e inabálavel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Estás acima de todo principado<br/>Sobre tudo teu nome é exaltado</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, filho de Deus<br/>Diante de ti todo joelho se dobrará</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, filho de Deus<br/>Só tu és digno de ser adorado neste lugar</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Venha o teu reino<br/>Toma teu lugar de honra</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Venha teu governo<br/>Teu é o poder e a glória para sempre</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Só tu és digno de ser adorado (3x)<br/>Neste lugar</lines>
+    </verse>
+  </lyrics>
+</song>

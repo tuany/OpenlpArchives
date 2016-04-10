@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-04-10T15:47:00">
+  <properties>
+    <titles>
+      <title>Teu santo nome</title>
+    </titles>
+    <authors>
+      <author>Gabriela Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Todo ser que vive <br/>Louve o nome do senhor</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Toda criatura se derrame <br/>Aos seus pés</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ao som da sua voz<br/>O universo se desfaz</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Não há outro nome comparado<br/>Ao grande eu sou</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>E mesmo sendo pó<br/>Com tudo que há em mim<br/>Confessarei</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Que céus e terra passarão<br/>Mas o teu nome é eterno</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Todo joelho dobrará<br/>Ao ouvir teu nome<br/>Teu santo nome</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Todo ser confessará<br/>Louvado seja o teu nome<br/>Teu santo nome</lines>
+    </verse>
+  </lyrics>
+</song>

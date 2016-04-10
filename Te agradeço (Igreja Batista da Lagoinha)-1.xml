@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-12-27T12:52:37">
+  <properties>
+    <titles>
+      <title>Te agradeço</title>
+    </titles>
+    <authors>
+      <author>Igreja Batista da Lagoinha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por tudo o que tens feito<br/>Por tudo o que vais fazer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por tuas promessas<br/>E tudo o que és</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu quero te agradecer<br/>Com todo o meu ser</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te agradeço meu Senhor<br/>(Te agradeço meu Senhor)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te agradeço<br/>Por me libertar e salvar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Por ter morrido em meu lugar<br/>Te agradeço</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus te agradeço<br/>Eu te agradeço</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Te agradeço</lines>
+    </verse>
+  </lyrics>
+</song>

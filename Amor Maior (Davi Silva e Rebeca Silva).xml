@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-02-07T02:23:41">
+  <properties>
+    <titles>
+      <title>Amor Maior</title>
+      <title>Amor Maior</title>
+    </titles>
+    <authors>
+      <author>Davi Silva e Rebeca Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>sei que não mereço o teu amor<br/>sei que não mereço o teu perdão</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mas eu sei que tua graça me alcançou<br/>E tua misericórdia me transformou</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mesmo sem entender o seu amor<br/>Entrego o meu ser, tudo que sou</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu viverei o meu destino pra te servir<br/>Pois sei que o Senhor nunca desistiu de mim</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ninguém me amou<br/>Como o Senhor me ama</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ninguém se entregou <br/>Naquela cruz por mim</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O teu amor, me atraiu<br/>E me conquistou<br/>E me restaurou</lines>
+    </verse>
+    <verse name="v8">
+      <lines>O teu amor <br/>Me atraiu </lines>
+    </verse>
+    <verse name="v9">
+      <lines>E me conquistou e me restaurou<br/>Jesus</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tão doce, tão grande, tão forte é o teu amor </lines>
+    </verse>
+  </lyrics>
+</song>

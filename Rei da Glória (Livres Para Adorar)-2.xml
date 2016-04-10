@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-28T22:21:06">
+  <properties>
+    <titles>
+      <title>Rei da Glória</title>
+    </titles>
+    <authors>
+      <author>Livres Para Adorar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>As estrelas incontáveis <br/>Tu conheces todas pelo nome</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Todo o universo desenhado <br/>Foi em tua majestade</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A tua glória brilha aqui<br/>E quanto mais te vejo, eu te amo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rei da glória, maravilhoso és<br/>Não há outro além de Ti</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rei da glória<br/>Dono do meu coração</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>E quanto mais te vejo, eu amo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eu respondo ao teu amor<br/>Que diz a mim que não há outro Deus </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Misericórdia e bondade<br/>Me acolhem em tua santidade</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A tua glória brilha aqui</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>E quanto mais te vejo, eu amo</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Rei da glória, maravilhoso és<br/>Não há outro além de ti</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Rei da glória<br/>Dono do meu coração</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>E quanto mais te vejo, eu amo</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Quanto mais eu te conheço<br/>Eu te amo</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Quanto mais eu te percebo<br/>Eu te quero</lines>
+    </verse>
+  </lyrics>
+</song>

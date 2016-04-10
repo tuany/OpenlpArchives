@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-15T14:59:26">
+  <properties>
+    <titles>
+      <title>Leva-nos mais alto</title>
+    </titles>
+    <authors>
+      <author>Cultura Santa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Leva-nos mais alto</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em tua presença<br/>Onde tu habitas <br/>Onde tu estas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E ali adorarei<br/>A ti me renderei<br/>Teu nome Exaltarei<br/>Teu coração derramarei</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uma coisa, peço ao senhor e a buscarei</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Que eu possa habitar em tua presença <br/>Para sempre</lines>
+    </verse>
+  </lyrics>
+</song>

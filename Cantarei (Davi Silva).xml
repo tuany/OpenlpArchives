@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-17T18:10:47">
+  <properties>
+    <titles>
+      <title>Cantarei</title>
+    </titles>
+    <authors>
+      <author>Davi Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Preparado está o meu coração oh Deus</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pra te adorar<br/>Pra te exaltar senhor</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Preparado está o meu coração</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Cantarei louvores (3x)<br/>De toda minha alma</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Oô oô...</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Santo</lines>
+    </verse>
+  </lyrics>
+</song>

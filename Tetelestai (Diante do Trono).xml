@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-10T16:45:30">
+  <properties>
+    <titles>
+      <title>Tetelestai</title>
+    </titles>
+    <authors>
+      <author>Diante do Trono</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minha dor Ele levou<br/>Ele levou</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meu pecar Ele levou<br/>Ele levou</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minhas enfermidades levou<br/>Ele levou sobre si</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ele levou minha cruz</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eu o adoro<br/>Eu o amo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus Cristo<br/>Único e suficiente salvador<br/>Meu salvador</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Minhas maldições Ele levou<br/>Ele levou</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Medos e aflições Ele levou<br/>Ele levou</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Minha condenação levou<br/>Ele levou sobre si</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ele levou minha Cruz</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Ele é o Cordeiro de Deus<br/>Que tira o pecado do mundo</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Tetelestai<br/>Está consumado</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Tetelestai<br/>O preço foi pago</lines>
+    </verse>
+  </lyrics>
+</song>

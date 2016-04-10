@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-02T21:40:38">
+  <properties>
+    <titles>
+      <title>Que ele cresça</title>
+    </titles>
+    <authors>
+      <author>Deigma Marques</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais de Ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E menos de mim</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que Ele cresça e eu diminua</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que Ele apareça e eu me constranja</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Com a Sua glória e todo o seu amor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Infinita humildade<br/>Servo de todos os irmãos</lines>
+    </verse>
+  </lyrics>
+</song>

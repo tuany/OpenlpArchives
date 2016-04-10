@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-29T22:06:19">
+  <properties>
+    <titles>
+      <title>Canção de amor</title>
+    </titles>
+    <authors>
+      <author>Davi Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uma canção de amor eu tenho para te dar</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Uma canção de amor eu tenho para te dar,   Jesus</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Uma expressão eu tenho para te dar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>tantas palavras de Amor eu tenho para falar</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quanto mais te conheço eu te quero mais<br/>Quanto mais te conheço eu te Amo mais<br/>Quanto mais te conheço contigo eu quero estar</lines>
+    </verse>
+    <verse name="v5">
+      <lines>sempre, sempre quero estar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Contigo</lines>
+    </verse>
+    <verse name="v7">
+      <lines>eu quero estar </lines>
+    </verse>
+  </lyrics>
+</song>

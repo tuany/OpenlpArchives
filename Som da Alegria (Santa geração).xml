@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-31T19:52:43">
+  <properties>
+    <titles>
+      <title>Som da Alegria</title>
+      <title>Som da Alegria</title>
+    </titles>
+    <authors>
+      <author>Santa geração</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Senhor deixa nos ouvir <br/>(Senhor deixa nos ouvir)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O som da alegria<br/>(O som da alegria)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Senhor deixa nos ouvir  <br/>(Senhor deixa nos ouvir)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>O riso dos anjos </lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Em tua presença<br/>Em tua presença</lines>
+    </verse>
+  </lyrics>
+</song>

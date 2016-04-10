@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-27T22:10:07">
+  <properties>
+    <titles>
+      <title>vim pra te adorar</title>
+    </titles>
+    <authors>
+      <author>Davi Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu vim pra te Adorar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aleluia</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-15T14:44:07">
+  <properties>
+    <titles>
+      <title>Preciso de Ti</title>
+    </titles>
+    <authors>
+      <author>Diante do Trono</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Preciso de Ti<br/>Preciso do Teu perdão</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preciso de Ti<br/>Quebranta meu coração</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Como a corça anseia por águas, assim tenho sede<br/>Como terra seca, assim é a minh'alma<br/>Preciso de Ti</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Distante de Ti, Senhor, não posso viver<br/>Não vale a pena existir</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Escuta o meu clamor<br/>Mais que o ar que eu respiro<br/>Preciso de Ti</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Não posso esquecer<br/>O que fizeste por mim <br/>Como alto é o céu<br/>Tua misericórdia é sem fim</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Como um pai se compadece dos filhos, assim Tu me amas <br/>Afasta as minhas transgressões<br/>Preciso de Ti </lines>
+    </verse>
+    <verse name="v7a">
+      <lines>Distante de Ti, Senhor, não posso viver<br/>Não vale a pena existir<br/>Escuta o meu clamor<br/>Mais que o ar que eu respiro<br/>Preciso de Ti</lines>
+    </verse>
+    <verse name="v7b">
+      <lines>E as lutas vêm tentando me afastar de Ti<br/>Frieza, escuridão procuram me cegar<br/>Mas eu não vou desistir<br/>Ajuda-me, Senhor<br/>Eu quero permanecer Contigo até o fim</lines>
+    </verse>
+    <verse name="v8a">
+      <lines>Distante de Ti, Senhor, não posso viver<br/>Não vale a pena existir<br/>Escuta o meu clamor<br/>Mais que o ar que eu respiro<br/>Preciso de Ti</lines>
+    </verse>
+    <verse name="v8b">
+      <lines>Preciso de Ti</lines>
+    </verse>
+  </lyrics>
+</song>

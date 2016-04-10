@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-30T21:00:12">
+  <properties>
+    <titles>
+      <title>Acende o fogo (Set a fire)</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Não há lugar que eu prefira estar (3x)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Além do teu amor, do teu amor</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Acende o fogo em minha alma<br/>Que eu não possa conter nem me controlar</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Eu quero é mais de ti Deus (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

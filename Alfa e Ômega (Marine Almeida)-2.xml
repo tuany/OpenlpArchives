@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2015-11-29T14:11:38">
+  <properties>
+    <titles>
+      <title>Alfa e Ômega</title>
+    </titles>
+    <authors>
+      <author>Marine Almeida</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não há outro como Tu<br/>Soberano e fiel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não há outro como Tu<br/>Reina sobre a terra e céus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És o Alfa e Ômega<br/>Início e Fim<br/>És o ar que eu respiro<br/>Tudo pra mim</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu és Jesus, Tu és Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alfa e Ômega<br/>Início e Fim<br/>Tudo pra mim</lines>
+    </verse>
+  </lyrics>
+</song>

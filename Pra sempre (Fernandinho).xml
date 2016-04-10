@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2" modifiedIn="OpenLP 2.2" modifiedDate="2016-01-10T16:52:10">
+  <properties>
+    <titles>
+      <title>Pra sempre</title>
+    </titles>
+    <authors>
+      <author>Fernandinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O universo chora<br/>O sol se apagou</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ali estava morto o salvador</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seu corpo lá na cruz<br/>Seu sangue derramou</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O peso do pecado ele levou<br/>Levou, levou</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Deus Pai o abandonou<br/>Cessou seu respirar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Em trevas se encontrou o Filho</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A guerra começou<br/>A morte Ele enfrentou</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Todo o poder das trevas vencido foi</lines>
+    </verse>
+    <verse name="v9">
+      <lines>A terra estremeceu<br/>O sepulcro se abriu</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Nada vencerá seu grande amor</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ó morte, onde estás<br/>O Rei ressuscitou<br/>Ele venceu pra sempre</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Pra sempre exaltado és<br/>Pra sempre adorado és</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Pra sempre Ele vive<br/>Ressuscitou, ressuscitou!</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Cantamos aleluia (3x)<br/>O cordeiro venceu</lines>
+    </verse>
+  </lyrics>
+</song>
